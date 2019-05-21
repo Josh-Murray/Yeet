@@ -17,7 +17,7 @@ I hate myself and everyone else.
 ## TODO
 - [x] Decide on the syntax
 - [x] Create an interpretor
-- [ ] Create a translator
+- [x] Create a translator
   - [ ] Translate Yeet to pseducode?
-  - [ ] Translate brainfuck to Yeet
-  - [ ] Translate Yeet to brainfuck
+  - [x] Translate brainfuck to Yeet
+  - [x] Translate Yeet to brainfuck
